@@ -21,4 +21,5 @@ uvicorn app.main:app --host 0.0.0.0 --port 7760 --reload
 
 效果：
 
-<video src="example.mp4" controls width="100%"></video>
+[![视频封面](https://raw.githubusercontent.com/MarshalW/macos-tts-api/refs/heads/main/cover.jpg)](https://raw.githubusercontent.com/MarshalW/macos-tts-api/refs/heads/main/example.mp4)
+
