@@ -11,10 +11,14 @@ curl -o test.wav -X POST "http://localhost:7760/convert/tts" \
 启动服务：
 
 ```bash
-# git clone 
+git clone https://github.com/MarshalW/macos-tts-api.git
 cd macos-tts-api
 # 安装依赖
 pip install -r requirements.txt
 
 uvicorn app.main:app --host 0.0.0.0 --port 7760 --reload
 ```
+
+效果：
+
+![](./example.mp4)
