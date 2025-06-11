@@ -21,3 +21,7 @@ uvicorn app.main:app --host 0.0.0.0 --port 7760 --reload
 
 效果：
 
+
+
+https://github.com/user-attachments/assets/08507a94-891c-4b23-b22c-3327fda76b20
+
