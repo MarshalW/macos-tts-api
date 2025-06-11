@@ -21,4 +21,4 @@ uvicorn app.main:app --host 0.0.0.0 --port 7760 --reload
 
 效果：
 
-![](./example.mp4)
+<video src="example.mp4" controls width="100%"></video>
