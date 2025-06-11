@@ -21,8 +21,6 @@ uvicorn app.main:app --host 0.0.0.0 --port 7760 --reload
 
 效果：
 
-[![视频封面](https://raw.githubusercontent.com/MarshalW/macos-tts-api/refs/heads/main/cover.jpg)](https://raw.githubusercontent.com/MarshalW/macos-tts-api/refs/heads/main/example.mp4)
-
 <video controls>
   <source src="https://raw.githubusercontent.com/MarshalW/macos-tts-api/refs/heads/main/example.mp4" type="video/mp4">
   Your browser does not support the video tag.
